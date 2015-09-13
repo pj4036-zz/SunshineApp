@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item name="weather_detail_container" type="id">weather detail container</item>
+  <item name="fragment_forecast" type="id">fragment forecast</item>
+  <item name="detail_icon" type="id">detail icon</item>
+  <item name="detail_date_textview" type="id">detail date textview</item>
+  <item name="detail_day_textview" type="id">detail day textview</item>
+  <item name="detail_forecast_textview" type="id">detail forecast textview</item>
+  <item name="detail_high_textview" type="id">detail high textview</item>
+  <item name="detail_low_textview" type="id">detail low textview</item>
+  <item name="detail_humidity_textview" type="id">detail humidity textview</item>
+  <item name="detail_wind_textview" type="id">detail wind textview</item>
+  <item name="detail_pressure_textview" type="id">detail pressure textview</item>
+  <item name="list_item_icon" type="id">list item icon</item>
+  <item name="list_item_date_textview" type="id">list item date textview</item>
+  <item name="list_item_high_textview" type="id">list item high textview</item>
+  <item name="list_item_low_textview" type="id">list item low textview</item>
+</resources>
